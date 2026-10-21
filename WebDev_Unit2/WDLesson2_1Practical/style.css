@@ -10,7 +10,7 @@ selector{
 
 /* Challenge 1: Change color of the text for all the headings size 3 to blue */
 h3 {
-  color:red;
+  color:blue;
 }
 
 /* Challenge 2: Change the size for the font for all headings size 1 to 60pt */
@@ -34,6 +34,8 @@ ul {
 }
 /* Chalenge 6: Change the background color of the div to blue, color of the text to white and the weight of the font to bold.*/
 div {
-  background-color:green;
+  background-color:blue;
+  color:white;
+  text-weight:bold;
 }   
 /* Hint:  You can specify several CSS rules for one element by separating the rules with semi-colons. Look at some examples on w3schools */
