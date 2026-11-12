@@ -19,7 +19,7 @@ a{
 }
 /* Challenge 9: Change the bottom border of the hyperlinks in the <nav> element to 2px solid black when the visitor hovers over it */
 nav a:hover{
-  border-bottom: 2px solid black
+  border-bottom: 2px solid black;
 }
 /* Challenge 10: Change the background color to blue and the text to white for elements with an class of "banner" */
 .banner{
