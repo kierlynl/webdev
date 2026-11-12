@@ -10,7 +10,7 @@ nav a{
 }
 
 /* Challenge 7: Make the font for all elements Arial */
-*{
+body{
   font-family:Arial;
 }
 /* Challenge 8: Remove the underline for all hyperlinks */
